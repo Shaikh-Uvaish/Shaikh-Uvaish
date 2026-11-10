@@ -4,7 +4,7 @@
 
 </div>
 
-## 💜 About Me
+## ⚡ About Me ⚡
 
 Welcome to my profile! I'm an engineering student who loves learning new things and building projects. I'm always up for good conversations and collaborations.
 
