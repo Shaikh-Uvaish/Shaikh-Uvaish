@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=B57BFF&center=true&vCenter=true&width=600&height=60&lines=Hey!+I'm+Uvaish+Shaikh+%F0%9F%91%8B" alt="Greeting" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=B57BFF&center=true&vCenter=true&width=600&height=60&lines=Hi,+I'm+Uvaish+Shaikh+%F0%9F%91%8B;Learning+something+new+every+day+%F0%9F%93%9A;Innovate.+Challenge.+Lead." alt="Greeting" />
 
 </div>
 
