@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=B57BFF&center=true&vCenter=true&width=600&height=60&lines=Hi,+I'm+Uvaish+Shaikh+%F0%9F%91%8B;Learning+something+new+every+day+%F0%9F%93%9A;Innovate.+Challenge.+Lead." alt="Greeting" />
 
@@ -42,7 +42,7 @@ Hey there! I'm **Uvaish Shaikh**, an engineering student passionate about techno
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Shaikh-Uvaish&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=none" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Shaikh-Uvaish&show_icons=true&theme=midnight-purple&hide_border=true&hide_rank=true" />
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaikh-Uvaish&layout=compact&theme=midnight-purple&hide_border=true" />
 
@@ -78,18 +78,28 @@ Hey there! I'm **Uvaish Shaikh**, an engineering student passionate about techno
 
 <div align="center">
 
-I'm always interested in connecting with developers, sharing ideas, and exploring opportunities.
+### Let's build something meaningful together.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shaikh_Uvaish-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/uvaish-shaikh)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-B57BFF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://uvaish-dev.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Shaikh--Uvaish-181717?style=for-the-badge&logo=github)](https://github.com/Shaikh-Uvaish)
+Open to connecting with developers, collaborating on projects, and exploring internship opportunities.
 
-**"while (!success) { keepBuilding(); }"**
+<br/>
 
-</div>
+<a href="https://linkedin.com/in/uvaish-shaikh">
+<img src="https://img.shields.io/badge/LET'S_CONNECT-LinkedIn-B57BFF?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://uvaish-dev.netlify.app/">
+<img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-Visit-181717?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+<a href="mailto:uvaish.m.shaikh@gmail.com">
+<img src="https://img.shields.io/badge/SAY_HELLO-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-<div align="center">
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color= B57BFF&height=100&section=footer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=B57BFF&center=true&vCenter=true&width=500&height=40&lines=while+(!success)+%7B+keepBuilding();+%7D;Keep+Learning.+Keep+Building.+Keep+Growing." alt="Developer motto" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B57BFF,100:6A3DBB&height=120&section=footer" />
 
 </div>
