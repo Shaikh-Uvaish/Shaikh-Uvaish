@@ -96,7 +96,7 @@ Open to connecting with developers, collaborating on projects, and exploring int
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=B57BFF&center=true&vCenter=true&width=650&height=50&lines=while+(!success)+%7B+keepBuilding();+%7D;Keep+Learning.+Keep+Building.+Keep+Growing." alt="Developer motto" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=B57BFF&center=true&vCenter=true&width=650&height=50&lines=while+(!success)+%7B+keepBuilding();+%7D;Keep+Learning.+Keep+Building.+Keep+Growing." alt="Developer motto" />
 
 <br/>
 
